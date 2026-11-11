@@ -23,9 +23,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-0gw^mt$#ydgd64y1*=^+9%_#y73pb0touaac$0#ubt$=c&1d_5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "Tarik01.pythonanywhere.com",
+    "tarik01.pythonanywhere.com"
+]
 
 
 # Application definition
@@ -138,6 +141,6 @@ REST_FRAMEWORK = {
     ]
 }
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
+    "https://lovely-hamster-36ff84.netlify.app",,
 ]
 STATIC_ROOT = '/home/Tarik01/todoapp/backend/staticfiles'
