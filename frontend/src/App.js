@@ -119,7 +119,7 @@ function App() {
       {/* 页脚 */}
       <footer className="text-center text-lg-start bg-light text-muted mt-4">
         <div className="text-center p-4">
-          @ Copyright - <a target="_blank" rel="noreferrer" className="text-reset fw-bold text-decoration-none" href="https://twitter.com/">Author name</a>
+          @ Copyright - <a target="_blank" rel="noreferrer" className="text-reset fw-bold text-decoration-none" href="https://github.com/wyhprince09-commits">Tarik</a>
         </div>
       </footer>
     </div>
