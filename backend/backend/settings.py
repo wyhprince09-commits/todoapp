@@ -141,6 +141,6 @@ REST_FRAMEWORK = {
     ]
 }
 CORS_ALLOWED_ORIGINS = [
-    "https://lovely-hamster-36ff84.netlify.app",,
+    "https://lovely-hamster-36ff84.netlify.app",
 ]
 STATIC_ROOT = '/home/Tarik01/todoapp/backend/staticfiles'
