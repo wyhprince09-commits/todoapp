@@ -140,3 +140,4 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
 ]
+STATIC_ROOT = '/home/Tarik01/todoapp/backend/staticfiles'

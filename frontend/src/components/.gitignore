@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+db.sqlite3
+todo_venv/
+.venv/
+
+# Node
+frontend/node_modules/
+frontend/build/
+.DS_Store
